@@ -15,7 +15,7 @@ section {
 }
 
 .game--container {
-     background-image: url("file:///home/chronos/u-87447ff3bdf738e86011334a115c2c8733702619/MyFiles/Downloads/wtf.png");
+     background-image: url("wtf.png");
   display: grid;
     grid-template-columns: repeat(3, auto);
     width: 306px;
